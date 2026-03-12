@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Hello to Newton babu nandru DEVOPS AWS Portal 🚀</h1>
+    <h1>🚀 Hello to Newton Babu DEVOPS AWS Portal 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
